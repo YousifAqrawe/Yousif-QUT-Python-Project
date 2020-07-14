@@ -5,5 +5,7 @@ In this project I have used my python skills to create a program which specifies
 2. roof: Every building has a roof. 
 
 This project had 2 parts : 
+
 part a: creating the floors and the roof
+
 part b: Creating the work in progress (the building is under construction)
